@@ -3,11 +3,15 @@ body{
 }
 
 #about{
-    font-family: Palatino; 
+    color: white;
+    font-family: system-ui;
     padding-left: 50px; 
     padding-top: 25px;
+    text-align: center;
 }
 
 p{
     color: white;
+    font-size: 18px;
+    
 }
