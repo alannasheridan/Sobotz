@@ -1,3 +1,13 @@
 body{
-    background-color:Red;
+    background-color: Black;
+}
+
+#about{
+    font-family: Palatino; 
+    padding-left: 50px; 
+    padding-top: 25px;
+}
+
+p{
+    color: white;
 }
